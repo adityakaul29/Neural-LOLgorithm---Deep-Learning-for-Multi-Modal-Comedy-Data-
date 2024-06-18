@@ -1,4 +1,4 @@
-# Neural-LOLgorithm---Deep-Learning-for-Multi-Modal-Comedy-Data-
+
 
 # Neural LOLgorithm: Deep Learning for Multi-Modal Comedy Data (June 2023)
 
