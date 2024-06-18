@@ -56,9 +56,6 @@ The codebase is likely structured for modularity, allowing you to examine differ
 - The code might require specific datasets for training and testing the model.
 - Experiment with different hyperparameters and data modalities to potentially improve performance.
 
-**Note:**
-
-As this information is based on the provided summary, the actual codebase might not be publicly available due to ongoing development or privacy concerns.
 
 ## Contributing
 
@@ -68,16 +65,8 @@ If you have further developments or improvements for the Neural LOLgorithm, cons
 - Report any issues or bugs you encounter.
 - Submit pull requests with code improvements or new features (if applicable).
 
-## License
-
-The license used by the project is likely specified in a LICENSE file within the codebase. Refer to that file for details.
 
 ## References
 
 The project might reference relevant research papers or documentation for the deep learning libraries and techniques used. Look for a REFERENCES.md file or comments within the code for more information.
 
-## Acknowledgments
-
-The project might acknowledge any collaborators or funding sources that contributed to its development. Look for an ACKNOWLEDGMENTS.md file or comments within the codebase for details.
-
-We hope this README provides a comprehensive overview of the Neural LOLgorithm project. Feel free to reach out to the project maintainers (if applicable) for further discussions or clarifications.
